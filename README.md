@@ -2,12 +2,12 @@
 
 ## by Kamila Hamalcikova
 
-![](readme.assets/view_lac_blanc.JPG)![](readme.assets/vis_avalanches.jpg)
+![](readme.assets/view_lac_blanc.JPG)
 View on Mont Blanc massif from Lac Blanc, source: Kamila Hamalcikova
 
 ## Dataset
 
-My dataset is compilation of multiple Excel and pdf reports about occurence of avalanches in France from winter season 2010/11 till 2019/20. Original reports can be found on [ANENA (Association Nationale pour l’Étude de la Neige et des Avalanches)(https://www.anena.org/5041-bilan-des-accidents.htm) website. Over last 10 years there were 569 cases of avalanches in France where one or more people were involved.
+My dataset is compilation of multiple Excel and pdf reports about occurence of avalanches in France from winter season 2010/11 till 2019/20. Original reports can be found on [ANENA (Association Nationale pour l’Étude de la Neige et des Avalanches)](https://www.anena.org/5041-bilan-des-accidents.htm) website. Over last 10 years there were 569 cases of avalanches in France where one or more people were involved.
 
 ## Installation
 
