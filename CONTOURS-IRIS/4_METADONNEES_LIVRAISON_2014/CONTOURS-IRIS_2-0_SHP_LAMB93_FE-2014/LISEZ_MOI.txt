@@ -1,0 +1,4 @@
+
+Seules les métadonnées de produit sont actuellement disponibles pour ce produit.
+
+Les métadonnées de lots de livraison seront disponibles ultérieurement, aux formats .XML et .HTML.
