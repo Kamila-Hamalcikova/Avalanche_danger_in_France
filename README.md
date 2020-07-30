@@ -2,7 +2,7 @@
 
 ## by Kamila Hamalcikova
 
-![](readme.assets/view_lac_blanc.JPG)![](readme.assets/vis_avalanches.jpg)
+![](readme.assets/view_lac_blanc.JPG)
 View on Mont Blanc massif from Lac Blanc, source: Kamila Hamalcikova
 
 ## Dataset
