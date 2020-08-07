@@ -21,7 +21,7 @@ My dataset is compilation of multiple Excel and pdf reports about occurence of a
 
 It is not a surprise that the highest mountains have also highest number of avalanche accidents, with commune Mont Blanc having 30 cases of avalanche incidents as a record in all communes (commune is administrative unit in France). Majority of cases appeared in French Alps and Pyrenees mountains, while we could observe some rare cases also in Corsica and in Massif du Sancy and Massif Central. Most important finding is interactive visualization of communes with avalanche accidents (preview below).
 
-![](readme.assets/vis_avalanches.jpg)
+![](readme.assets/preview-pic.jpg)
 source: Kamila Hamalcikova
 
 ## License
