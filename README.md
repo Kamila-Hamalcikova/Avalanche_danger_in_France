@@ -34,5 +34,5 @@ This project is licensed under the MIT License - see the [license](https://opens
 - [data.gov.fr - for shapefile of France and its communes](https://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/)
 - [article A Complete Guide to an Interactive Geographical Map using Python by Shivangi Patel](https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0)
 - [earthdatascience.org on dissolving polygons](https://www.earthdatascience.org/workshops/gis-open-source-python/dissolve-polygons-in-python-geopandas-shapely/)
-- [GIS.stackechange on specifics of fillna function in geodataframes](https://gis.stackexchange.com/questions/287064/dissolve-causes-no-shapely-geometry-can-be-created-from-null-value-in-geopanda/287065)
-- [GIS.stackechange on avoiding intersections in modified polygons](https://gis.stackexchange.com/questions/287064/dissolve-causes-no-shapely-geometry-can-be-created-from-null-value-in-geopanda/287065)
+- [GIS.stackexchange on specifics of fillna function in geodataframes](https://gis.stackexchange.com/questions/287064/dissolve-causes-no-shapely-geometry-can-be-created-from-null-value-in-geopanda/287065)
+- [GIS.stackexchange on avoiding intersections in modified polygons](https://gis.stackexchange.com/questions/287064/dissolve-causes-no-shapely-geometry-can-be-created-from-null-value-in-geopanda/287065)
