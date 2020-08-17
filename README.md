@@ -24,6 +24,8 @@ It is not a surprise that the highest mountains have also highest number of aval
 ![](readme.assets/preview-pic.jpg)
 source: Kamila Hamalcikova
 
+More details about the project can be also found in my [medium article](https://medium.com/@kamila.hamalcikova/avalanche-danger-in-france-247b81b85e4e).
+
 ## License
 
 This project is licensed under the MIT License - see the [license](https://opensource.org/licenses/MIT) file for details
