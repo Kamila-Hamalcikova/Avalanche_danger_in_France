@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the [license](https://opens
 - [article A Complete Guide to an Interactive Geographical Map using Python by Shivangi Patel](https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0)
 - [earthdatascience.org on dissolving polygons](https://www.earthdatascience.org/workshops/gis-open-source-python/dissolve-polygons-in-python-geopandas-shapely/)
 - [GIS.stackexchange on specifics of fillna function in geodataframes](https://gis.stackexchange.com/questions/287064/dissolve-causes-no-shapely-geometry-can-be-created-from-null-value-in-geopanda/287065)
-- [GIS.stackexchange on avoiding intersections in modified polygons](https://gis.stackexchange.com/questions/287064/dissolve-causes-no-shapely-geometry-can-be-created-from-null-value-in-geopanda/287065)
+- [Stackoverflow on avoiding intersections in modified polygons](https://stackoverflow.com/questions/59797292/deleting-inner-lines-of-polygons-after-dissolving-in-geopandas)
